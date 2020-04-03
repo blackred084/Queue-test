@@ -1,0 +1,12 @@
+
+Ksquid:S1656"/Remove or correct this useless self-assignment.(ÒÜœöüÿÿÿÿ
+Fsquid:S1656"/Remove or correct this useless self-assignment.(íË²”
+~squid:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(ÒÜœöüÿÿÿÿ
+{squid:S4165
+"dRemove this useless assignment; "disase" already holds the assigned value along all execution paths.(Éøªë
+|squid:S4165"eRemove this useless assignment; "surname" already holds the assigned value along all execution paths.(íË²”
+ƒsquid:S4165	"gRemove this useless assignment; "how_Angry" already holds the assigned value along all execution paths.(‹µ‘ûÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í˜­»
+=squid:S1172"&Remove these unused method parameters.(â¶ŸÚ
+lsquid:S00116"TRename this field "how_Angry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÔãù
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¶ŸÚ
